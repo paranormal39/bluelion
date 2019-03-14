@@ -2,6 +2,7 @@
   "name": "bluelion",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://https://paranormal39.github.io/paranormal39.github.io-bluelion",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.4",
@@ -11,6 +12,7 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
+    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
