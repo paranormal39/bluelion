@@ -34,7 +34,7 @@ class home extends Component{
 
   </div>
   <img src={require('../images/Banner.png')} className='display-4'/>
-                <p>
+                
                 <div className="row">
       <div className="col-md-4">
       <img src={require('../images/TankPricing.png')} className='display-2'/>
@@ -47,7 +47,7 @@ class home extends Component{
       </div>
     </div>
                    
-                    </p>
+                    
                     </div>
                 </div>
           
