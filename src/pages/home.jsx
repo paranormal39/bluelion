@@ -20,30 +20,30 @@ class home extends Component{
    
     <div className="row">
       <div className="col-md-4">
-      <img src={require('../images/Frank.png')} className='display-2'/>
+      <img src={require('../images/Frank.png')} className='display-2' alt="frack"/>
       </div>
       <div className="col-md-4">
-      <img src={require('../images/BigRig.png')} className='display-2'/>
+      <img src={require('../images/BigRig.png')} className='display-2'alt="big rig"/>
       </div>
       <div className="col-md-4">
-      <img src={require('../images/OilRig.png')} className='display-2'/>
+      <img src={require('../images/OilRig.png')} className='display-2'alt="oil rig"/>
       </div>
     </div>
 
     
 
   </div>
-  <img src={require('../images/Banner.png')} className='display-4'/>
+  <img src={require('../images/Banner.png')} className='display-4' alt="banner"/>
                 
                 <div className="row">
       <div className="col-md-4">
-      <img src={require('../images/TankPricing.png')} className='display-2'/>
+      <img src={require('../images/TankPricing.png')} className='display-2'alt="pricing"/>
       </div>
       <div className="col-md-4">
-      <img src={require('../images/TruckWashing.png')} className='display-2'/>
+      <img src={require('../images/TruckWashing.png')} className='display-2'alt="truck"/>
       </div>
       <div className="col-md-4">
-      <img src={require('../images/OilRigPricing.png')} className='display-2'/>
+      <img src={require('../images/OilRigPricing.png')} className='display-2'alt="oil"/>
       </div>
     </div>
                    
