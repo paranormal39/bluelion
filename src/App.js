@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router, Route} from 'react-router-dom';
 import home from './pages/home';
-import navbar from './Components/Navbar.jsx';
+//import navbar from './Components/Navbar.jsx';
 
 class App extends Component {
   render() {

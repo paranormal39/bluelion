@@ -13,6 +13,7 @@
     "react-scripts": "2.1.8"
   },
   "scripts": {
+    "predploy": "npm run build",
     "deploy":"gh-pages -b gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
