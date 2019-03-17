@@ -8,14 +8,14 @@ class home extends Component{
     render(){
         return(
             
-           <div className='home'>
+           <div>
                <Navbar/>
                <Jumbotron/>
               <div>
                   <h1>
                      
                   </h1>
-            <div className='home'>
+            <div >
            
    
     <div className="row">
