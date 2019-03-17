@@ -2,7 +2,7 @@
   "name": "bluelion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://https://paranormal39.github.io/paranormal39.github.io-bluelion",
+  "homepage": "https://paranormal39.github.io/paranormal39.github.io-bluelion/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
