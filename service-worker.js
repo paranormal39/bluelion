@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/bluelion/precache-manifest.d6a3a4b10e005643b67d9fdc0ac7ee9e.js"
+  "/bluelion/precache-manifest.6f3a52303728ddd1c83ae1f3068fafff.js"
 );
 
 workbox.clientsClaim();
