@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/bluelion/static/media/BigRig.39a75d37.png"
   },
   {
-    "revision": "299e329b4f3fb136eece",
+    "revision": "e25d3334c95f7f9ee53b",
     "url": "/bluelion/static/css/main.3db322cd.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/bluelion/static/media/Frank.209df9f9.png"
   },
   {
-    "revision": "299e329b4f3fb136eece",
-    "url": "/bluelion/static/js/main.1af5212c.chunk.js"
+    "revision": "e25d3334c95f7f9ee53b",
+    "url": "/bluelion/static/js/main.5656a84f.chunk.js"
   },
   {
     "revision": "19509dd626e85cfafeef75a684459b30",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/bluelion/static/css/2.3002af5d.chunk.css"
   },
   {
-    "revision": "8a1e912368e8934303a3fa82e61cb222",
+    "revision": "4a7d92103efc358021a1409954497fed",
     "url": "/bluelion/index.html"
   }
 ];
